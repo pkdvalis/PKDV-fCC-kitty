@@ -24,3 +24,4 @@ chmod +x script.sh
 echo Fam
 echo Fam
 echo Fam
+./script.sh < name.txt
