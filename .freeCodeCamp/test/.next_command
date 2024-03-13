@@ -1,1 +1,2 @@
 bad_command
+bad_command > stderr.txt
