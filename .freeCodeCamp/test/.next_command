@@ -2,3 +2,4 @@ bad_command
 bad_command > stderr.txt
 __vsc_prompt_cmd_original
 bad_command 2> stderr.txt
+echo hello bash > stdout.txt
