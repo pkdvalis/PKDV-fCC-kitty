@@ -4,3 +4,5 @@ __vsc_prompt_cmd_original
 bad_command 2> stderr.txt
 echo hello bash > stdout.txt
 read NAME
+echo NAME
+echo $NAME
