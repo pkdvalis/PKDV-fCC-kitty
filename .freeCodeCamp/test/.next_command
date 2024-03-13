@@ -12,3 +12,4 @@ read NAME < name.txt
 echo $NAME
 echo Steve
 echo $NAME
+cat
