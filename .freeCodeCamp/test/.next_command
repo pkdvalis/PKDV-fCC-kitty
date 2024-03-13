@@ -13,3 +13,4 @@ echo $NAME
 echo Steve
 echo $NAME
 cat
+cat name.txt
