@@ -17,3 +17,6 @@ cat name.txt
 cat < name.txt
 echo Bill
 touch script.sh
+chmod script.sh +x
+chmod --help
+chmod +x script.sh
