@@ -22,3 +22,4 @@ chmod --help
 chmod +x script.sh
 ./script.sh
 echo Fam
+echo Fam
