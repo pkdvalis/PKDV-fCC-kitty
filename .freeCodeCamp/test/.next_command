@@ -25,3 +25,4 @@ echo Fam
 echo Fam
 echo Fam
 ./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt
